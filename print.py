@@ -1,0 +1,11 @@
+#printing message
+print('Hello World!')
+print('Welcome to python')
+print('Dharani')
+print('i am learning python')
+print('python programming')
+print('good morning')
+print('Welcome students')
+print('python is easy')
+print('My first program')
+print('hello from python')
